@@ -35,9 +35,3 @@ Developed as part of my C++ learning journey after completing a two-month develo
 
 
 ---
-
-## 🚀 How to Run
-
-1. Clone or download the project:
-   ```bash
-   git clone https://github.com/yourusername/cpp-snake-game.git
