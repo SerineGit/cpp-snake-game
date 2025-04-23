@@ -31,7 +31,7 @@ Developed as part of my C++ learning journey after completing a two-month develo
 
 ## 📷 Screenshots
 
-![Game Screenshot](screenshot.png)  
+![Game Screenshot](https://github.com/SerineGit/cpp-snake-game/blob/main/2D%20snake.png)  
 
 
 ---
